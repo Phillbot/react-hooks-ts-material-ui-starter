@@ -12,7 +12,7 @@ const store = createStore(rootReducer);
 ReactDOM.render(
   <Provider store={store}>
     <App />
-  </Provider>,
+  </Provider>, segzsg sg s sehdxh 
 
   document.getElementById("root")
 );
